@@ -15,7 +15,7 @@
     --card-bg: rgba(143, 0, 255, 0.05);
     --text-primary: #ffffff;
     --text-secondary: rgba(143, 0, 255, 0.7);
-    --glass-border: rgba(143, 255, 255, 0.1);
+    --glass-border: rgba(143, 0, 255, 0.1);
 }
 
 body {
