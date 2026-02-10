@@ -8,6 +8,7 @@
     --orange: #8f00ff;
     --orange-light: #b200ed;
     --orange-dark: #5f2da8;
+    --orange-rgb: 143, 0, 255;
     --blue: #1e90ff;
     --blue-light: #4da6ff;
     --blue-dark: #0066cc;
@@ -182,7 +183,7 @@ h1 .highlight-blue {
 }
 
 .member-card:nth-child(odd):hover {
-    box-shadow: 0 25px 50px -12px rgba(255, 107, 53, 0.3);
+    box-shadow: 0 25px 50px -12px rgba(143, 0, 255, 0.35);
 }
 
 .member-card:nth-child(even):hover {
@@ -280,7 +281,7 @@ h1 .highlight-blue {
 }
 
 .member-card:nth-child(odd) .member-role {
-    background: rgba(255, 107, 53, 0.2);
+    background: rgba(143, 0, 255, 0.2);
     color: var(--orange-light);
 }
 
