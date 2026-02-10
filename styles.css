@@ -12,10 +12,10 @@
     --blue-light: #4da6ff;
     --blue-dark: #0066cc;
     --dark-bg: #0a0a0f;
-    --card-bg: rgba(255, 255, 255, 0.05);
+    --card-bg: rgba(143, 0, 255, 0.05);
     --text-primary: #ffffff;
-    --text-secondary: rgba(255, 255, 255, 0.7);
-    --glass-border: rgba(255, 255, 255, 0.1);
+    --text-secondary: rgba(143, 0, 255, 0.7);
+    --glass-border: rgba(143, 255, 255, 0.1);
 }
 
 body {
